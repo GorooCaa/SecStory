@@ -1,4 +1,5 @@
 # SecStory 
+-ini adalah repository punya Goroo-
 
 [![Latest Version](https://img.shields.io/badge/SecStory-v2.0-blue.svg)](https://github.com/NgeSEC/SecStory/releases)
 [![Latest Version](https://img.shields.io/badge/SecStory-v1.2-red.svg)](https://github.com/NgeSEC/SecStory/releases)
